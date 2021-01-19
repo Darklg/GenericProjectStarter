@@ -8,5 +8,5 @@ This is a starter repository for ... your project starter
 
 ## Roadmap
 
-- [ ] Add base file
-- [ ] Example function : clone & kill repository.
+- [x] Add base file
+- [x] Example function : clone & kill repository.

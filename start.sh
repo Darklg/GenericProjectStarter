@@ -2,14 +2,15 @@
 
 cat <<TXT
 ###################################
-## Generic Project Starter v 0.1.0
+## Generic Project Starter v 0.2.0
 ###################################
 TXT
 
 # This var refers to this file's dir
 _SOURCEDIR="$( dirname "${BASH_SOURCE[0]}" )/";
+_CURRENTDIR="$( pwd )/";
 
-# This function allows local var
+# This function allows local vars
 function GenericProjectStarter(){
 
     ###################################
